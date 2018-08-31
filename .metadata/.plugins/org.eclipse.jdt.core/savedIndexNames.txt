@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Bkp_Joseffer\Download\ExemploJava\SpringBoot_Angular\AngularClientPostPutDelete\.metadata\.plugins\org.eclipse.jdt.core
+3117148308.index

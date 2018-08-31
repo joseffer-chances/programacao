@@ -1,0 +1,8 @@
+<h3 style="color:green">Customer List:</h3>
+
+  <a *ngFor="let cust of customers"  [routerLink]="['/detail', cust.id]"  class="col-1-4">
+    <div>
+      <h4>{{cust.id}} - {{cust.firstname}}
+      </h4>
+    </div>
+  </a>
